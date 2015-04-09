@@ -1,0 +1,651 @@
+{
+  "state": [
+    {
+      "name": "Almont Anglers",
+      "address": {
+        "street": "10209 Hwy. 135",
+        "city": "Almont",
+        "state": "CO",
+        "zip": "81210"
+      },
+      "phone": "(970) 641-7404",
+      "web": "almontanglers.com"
+    },
+
+    {
+      "name": "Alpine Angling",
+      "address": {
+        "street": "995 Cowen Street, Suite 102",
+        "city": "Carbondale",
+        "state": "CO",
+        "zip": "81623"
+      },
+      "phone": "(970) 963-9245",
+      "web": "roaringforkanglers.com"
+    },
+
+    {
+      "name": "Angler's All",
+      "address": {
+        "street": "5211 S. Santa Fe Drive",
+        "city": "Littleton",
+        "state": "CO",
+        "zip": "80120"
+      },
+      "phone": "(303) 794-1104",
+      "web": "anglersall.com"
+    },
+
+    {
+      "name": "Angler's Covey",
+      "address": {
+        "street": "295 21st Street",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "zip": "80904"
+      },
+      "phone": "(719) 471-2984",
+      "web": "anglerscovey.com"
+    },
+
+    {
+      "name": "Arkanglers Buena Vista",
+      "address": {
+        "street": "517 US Hwy 24 South",
+        "city": "Buena Vista",
+        "state": "CO",
+        "zip": "81211"
+      },
+      "phone": "(719) 395-1796",
+      "web": "arkanglers.com"
+    },
+
+    {
+      "name": "Arkanglers Pueblo",
+      "address": {
+        "street": "943 Hwy 50",
+        "city": "Pueblo",
+        "state": "CO",
+        "zip": "81008"
+      },
+      "phone": "(719) 543-3900",
+      "web": "arkanglers.com"
+    },
+
+    {
+      "name": "Arkansas River Fly Shop",
+      "address": {
+        "street": "7500 West Hwy 50",
+        "city": "Salida",
+        "state": "CO",
+        "zip": "81201"
+      },
+      "phone": "(719) 539-4223",
+      "web": "arkanglers.com"
+    },
+
+    {
+      "name": "Blue Quill Angler",
+      "address": {
+        "street": "1532 Bergen Pkwy",
+        "city": "Evergreen",
+        "state": "CO",
+        "zip": "80439"
+      },
+      "phone": "(303) 674-4700",
+      "web": "bluequillangler.com"
+    },
+
+    {
+      "name": "Blue River Anglers",
+      "address": {
+        "street": "281 Main St.",
+        "city": "Frisco",
+        "state": "CO",
+        "zip": "80443"
+      },
+      "phone": "(970) 668-2583",
+      "web": "blueriveranglers.com"
+    },
+
+    {
+      "name": "Breckenridge Outfitters",
+      "address": {
+        "street": "101 N Main St.",
+        "city": "Breckenridge",
+        "state": "CO",
+        "zip": "80424"
+      },
+      "phone": "(970) 453-4135",
+      "web": "breckenridgeoutfitters.com"
+    },
+
+    {
+      "name": "Charlie's Fly Box",
+      "address": {
+        "street": "7513 Grandview Ave.",
+        "city": "Arvada",
+        "state": "CO",
+        "zip": "80002"
+      },
+      "phone": "(303) 403-8880",
+      "web": "charliesflybox.com"
+    },
+
+    {
+      "name": "Clear Creek Outdoors",
+      "address": {
+        "street": "1524 Miner Street",
+        "city": "Idaho Springs",
+        "state": "CO",
+        "zip": "80452"
+      },
+      "phone": "(303) 567-1500",
+      "web": "clearcreekflyfishing.com"
+    },
+
+    {
+      "name": "The Colorado Angler",
+      "address": {
+        "street": "249 Summit Pl.",
+        "city": "Silverthorne",
+        "state": "CO",
+        "zip": "80498"
+      },
+      "phone": "(970) 513-8055",
+      "web": "thecoloradoangler.com"
+    },
+
+    {
+      "name": "Colorado Skies Outfitters",
+      "address": {
+        "street": "11020 S Pikes Peak Dr.",
+        "city": "Parker",
+        "state": "CO",
+        "zip": "80138"
+      },
+      "phone": "(720) 851-4665",
+      "web": "coloradoskiesoutfitters.com"
+    },
+
+    {
+      "name": "Conejos River Anglers",
+      "address": {
+        "street": "34591 Hwy 17",
+        "city": "Antonito",
+        "state": "CO",
+        "zip": "81120"
+      },
+      "phone": "(719) 376-5660",
+      "web": "conejosriveranglers.com"
+    },
+
+    {
+      "name": "Crested Butte Angler",
+      "address": {
+        "street": "413 Elk Ave",
+        "city": "Crested Butte",
+        "state": "CO",
+        "zip": "81224"
+      },
+      "phone": "970-349-1568",
+      "web": "crestedbutteangler.com"
+    },
+
+    {
+      "name": "Cutthroat Anglers",
+      "address": {
+        "street": "400 Blue River Parkway",
+        "city": "Silverthorne",
+        "state": "CO",
+        "zip": "80498"
+      },
+      "phone": "(970) 262-2878",
+      "web": "fishcolorado.com"
+    },
+
+    {
+      "name": "Denver Angler",
+      "address": {
+        "street": "6870 Yosemite St.",
+        "city": "Centennial",
+        "state": "CO",
+        "zip": "80112"
+      },
+      "phone": "(303) 403-4512",
+      "web": "denverangler.com"
+    },
+
+    {
+      "name": "The Denver Fly Shop",
+      "address": {
+        "street": "1699 S Colorado Blvd",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80222"
+      },
+      "phone": "(303) 736-9320",
+      "web": "denverflyshop.com"
+    },
+
+    {
+      "name": "Discount Fishing",
+      "address": {
+        "street": "2645 S Santa Fe",
+        "city": "Denver",
+        "state": "CO",
+        "zip": " 80223"
+      },
+      "phone": "(970) 349-1228",
+      "web": "dragonflyanglers.com"
+    },
+
+    {
+      "name": "Dragonfly Anglers",
+      "address": {
+        "street": "307 Elk Ave.",
+        "city": "Crested Butte",
+        "state": "CO",
+        "zip": " 81224"
+      },
+      "phone": "(970) 349-1228",
+      "web": "dragonflyanglers.com"
+    },
+
+    {
+      "name": "Drift Fly Shop",
+      "address": {
+        "street": "943 U.S. 50",
+        "city": "Pueblo",
+        "state": "CO",
+        "zip": "81008"
+      },
+      "phone": "(719) 543-3900",
+      "web": "thedriftflyshop.com"
+    },
+
+    {
+      "name": "Duranglers",
+      "address": {
+        "street": "923 Main Ave",
+        "city": "Durango",
+        "state": "CO",
+        "zip": "81301"
+      },
+      "phone": "(970) 385-4081",
+      "web": "duranglers.com"
+    },
+
+    {
+      "name": "Elkhorn Fly Shop",
+      "address": {
+        "street": "3121 West Eisenhower Blvd",
+        "city": "Loveland",
+        "state": "CO",
+        "zip": "80537"
+      },
+      "phone": "(970) 227-4707",
+      "web": "elkhornflyrodandreel.com"
+    },
+
+    {
+      "name": "Estes Angler",
+      "address": {
+        "street": "338 W Riverside Dr.",
+        "city": "Estes Park",
+        "state": "CO",
+        "zip": "80517"
+      },
+      "phone": "(970) 586-2110",
+      "web": "estesangler.com"
+    },
+
+    {
+      "name": "Fox Creek Store",
+      "address": {
+        "street": "26573 Hwy 17",
+        "city": "Antonito",
+        "state": "CO",
+        "zip": "81120"
+      },
+      "phone": "(719) 376-5881",
+      "web": "foxcreekstore.com"
+    },
+
+    {
+      "name": "Front Range Anglers",
+      "address": {
+        "street": "629B S. Broadway",
+        "city": "Boulder",
+        "state": "CO",
+        "zip": "80305"
+      },
+      "phone": "(303) 494-1375",
+      "web": "frontrangeanglers.com"
+    },
+
+    {
+      "name": "Gene Taylor's / Gunnison Sports Outlet",
+      "address": {
+        "street": "201 West Tomichi",
+        "city": "Gunnison",
+        "state": "CO",
+        "zip": " 81230"
+      },
+      "phone": "(970) 641-1845",
+      "web": "genetaylorsgunnison.com"
+    },
+
+    {
+      "name": "Ghillies Fly Shop",
+      "address": {
+        "street": "3314 Austin Bluffs Pkwy",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "zip": "80918"
+      },
+      "phone": "(719) 531-5413",
+      "web": "ghilliesflyshop.com"
+    },
+
+    {
+      "name": "Golden River Sports",
+      "address": {
+        "street": "806 Washington Ave",
+        "city": "Golden",
+        "state": "CO",
+        "zip": "80401"
+      },
+      "phone": "(303) 215-9386",
+      "web": "goldenriversports.com"
+    },
+
+    {
+      "name": "Gore Creek Fly Shop",
+      "address": {
+        "street": "111 Beaver Creek Pl",
+        "city": "Avon",
+        "state": "CO",
+        "zip": "81620"
+      },
+      "phone": "(970) 754-5400",
+      "web": "gorecreekflyfisherman.com"
+    },
+
+    {
+      "name": "Gunnison River Fly Shop",
+      "address": {
+        "street": "300 North Main Street",
+        "city": "Gunnison, C",
+        "state": "81230",
+        "zip": "2404"
+      },
+      "phone": "(970) 641-2930",
+      "web": "gunnisonriverflyshop.com"
+    },
+
+    {
+      "name": "Kirk's Fly Shop",
+      "address": {
+        "street": "230 E. Elkhorn Ave",
+        "city": "Estes Park",
+        "state": "CO",
+        "zip": "80517"
+      },
+      "phone": "(970) 577-0790",
+      "web": "kirksflyshop.com"
+    },
+
+    {
+      "name": "Laughing Grizzly Fly Shop",
+      "address": {
+        "street": "10675 Ute Hwy",
+        "city": "Longmont",
+        "state": "CO",
+        "zip": "80504"
+      },
+      "phone": "(303) 772-9110",
+      "web": "laughinggrizzlyflyshop.com"
+    },
+
+    {
+      "name": "Minturn Anglers",
+      "address": {
+        "street": "102 Main Street",
+        "city": "Minturn",
+        "state": "CO",
+        "zip": "81645"
+      },
+      "phone": "(970) 827-9500",
+      "web": "minturnanglers.com"
+    },
+
+    {
+      "name": "MoHenry's Trout Shop",
+      "address": {
+        "street": "76837 Hwy 40",
+        "city": "Fraser",
+        "state": "CO",
+        "zip": "80442"
+      },
+      "phone": "(970) 726-9754",
+      "web": "mohenrys.com"
+    },
+
+    {
+      "name": "Mountain Angler",
+      "address": {
+        "street": "311 S Main Street",
+        "city": "Breckenridge",
+        "state": "CO",
+        "zip": "80424"
+      },
+      "phone": "(800) 453-4669",
+      "web": "mountainangler.com"
+    },
+
+    {
+      "name": "North Park Anglers",
+      "address": {
+        "street": "524 Main St.",
+        "city": "Walden",
+        "state": "CO",
+        "zip": "80480"
+      },
+      "phone": "(970) 723-4215",
+      "web": "northparkanglers.com"
+    },
+
+    {
+      "name": "Peak Fly Shop 1",
+      "address": {
+        "street": "5767 N. Academy Blvd",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "zip": "80918"
+      },
+      "phone": "(719) 260-1415",
+      "web": "thepeakflyshop.com"
+    },
+
+    {
+      "name": "Peak Fly Shop 2",
+      "address": {
+        "street": "301 E. Hwy 24",
+        "city": "Woodland Park",
+        "state": "CO",
+        "zip": "80863"
+      },
+      "phone": "(719) 687-9122",
+      "web": "thepeakflyshop.com"
+    },
+
+    {
+      "name": "Ramble House",
+      "address": {
+        "street": "116 Creede Ave.",
+        "city": "Creede",
+        "state": "CO",
+        "zip": "81130"
+      },
+      "phone": "(719) 658-2482",
+      "web": "ramblehouse.net"
+    },
+
+    {
+      "name": "Rigs Adventure Co",
+      "address": {
+        "street": "565 Sherman St #2",
+        "city": "Ridgway",
+        "state": "CO",
+        "zip": "81432"
+      },
+      "phone": "(970) 626-4460",
+      "web": "fishrigs.com"
+    },
+
+    {
+      "name": "Rocky Mtn. Anglers",
+      "address": {
+        "street": "1904 Arapahoe Ave",
+        "city": "Boulder",
+        "state": "CO",
+        "zip": "80302"
+      },
+      "phone": "(303) 447-2400",
+      "web": "rockymtanglers.com"
+    },
+
+    {
+      "name": "Roaring Fork Anglers",
+      "address": {
+        "street": "2205 Grand Ave.",
+        "city": "Glenwood Springs",
+        "state": "CO",
+        "zip": "81601"
+      },
+      "phone": "(970) 945-0180",
+      "web": "roaringforkanglers.com"
+    },
+
+    {
+      "name": "San Miguel Anglers",
+      "address": {
+        "street": "150 W Colorado Ave.",
+        "city": "Telluride",
+        "state": "CO",
+        "zip": "81435"
+      },
+      "phone": "(970) 728-4477",
+      "web": "sanmiguelanglers.com"
+    },
+
+    {
+      "name": "St. Peter's Fly Shop",
+      "address": {
+        "street": "202 Remington Street",
+        "city": "Ft. Collins",
+        "state": "CO",
+        "zip": "80524"
+      },
+      "phone": "(970) 498-8968",
+      "web": "stpetes.com"
+    },
+
+    {
+      "name": "Steamboat Flyfisher",
+      "address": {
+        "street": "35 5th St.",
+        "city": "Steamboat Springs",
+        "state": "CO",
+        "zip": "80487"
+      },
+      "phone": "(970) 879-6552",
+      "web": "steamboatflyfisher.com"
+    },
+
+    {
+      "name": "Straightline Sports",
+      "address": {
+        "street": "744 Lincoln Ave",
+        "city": "Steamboat Springs",
+        "state": "CO",
+        "zip": "80487"
+      },
+      "phone": "(970) 879-7568",
+      "web": "straightlinesports.com"
+    },
+
+    {
+      "name": "Taylor Creek Fly Shop",
+      "address": {
+        "street": "183 Basalt Center Circle",
+        "city": "Basalt",
+        "state": "CO",
+        "zip": "81621"
+      },
+      "phone": "(970) 927-4374",
+      "web": "taylorcreek.com"
+    },
+
+    {
+      "name": "Telluride Angler",
+      "address": {
+        "street": "121 West Colorado Ave",
+        "city": "Telluride",
+        "state": "CO",
+        "zip": "81435"
+      },
+      "phone": "(970) 728-3895",
+      "web": "tellurideoutside.com"
+    },
+
+    {
+      "name": "Trouts",
+      "address": {
+        "street": "1303 East 6th Ave.",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80218"
+      },
+      "phone": "(303) 733-1434",
+      "web": "troutsflyfishing.com"
+    },
+
+    {
+      "name": "Vail Valley Anglers",
+      "address": {
+        "street": "97 Main Street Unit E102th Ave.",
+        "city": "Edwards",
+        "state": "CO",
+        "zip": "81632"
+      },
+      "phone": "(970) 926-0900",
+      "web": "vailvalleyanglers.com"
+    },
+
+    {
+      "name": "Western Angler",
+      "address": {
+        "street": "413 Main Street",
+        "city": "Grand Junction",
+        "state": "CO",
+        "zip": "81501"
+      },
+      "phone": "(970) 244-8658",
+      "web": "westernanglers.com"
+    },
+
+    {
+      "name": "Wolf Creek Anglers",
+      "address": {
+        "street": "169 N Pagosa Blvd",
+        "city": "Pagosa Springs",
+        "state": "CO",
+        "zip": "81147"
+      },
+      "phone": "(970) 264-1415",
+      "web": "wolfcreekanglers.com"
+    }
+  ]
+}

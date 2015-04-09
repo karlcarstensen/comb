@@ -1,0 +1,195 @@
+{
+  "state": [
+    {
+      "name": "Al's Sporting Goods",
+      "address": {
+        "street": "1617 North Main St.",
+        "city": "Logan",
+        "state": "UT",
+        "zip": "84341"
+        },
+      "phone": "(435) 752-5151",
+      "web": "alssports.com"
+    },
+
+    {
+      "name": "Angler's Den",
+      "address": {
+        "street": "5296 S. Freeway Park Dr.",
+        "city": "Riverdale",
+        "state": "UT",
+        "zip": "84405"
+      },
+      "phone": "(801) 773-1166",
+      "web": ""
+    },
+
+    {
+      "name": "Big Foot Fly Shop",
+      "address": {
+        "street": "38 North 40 West",
+        "city": "Vernal",
+        "state": "UT",
+        "zip": "84078"
+      },
+      "phone": "(435) 789-4960",
+      "web": ""
+    },
+
+    {
+      "name": "Colletts Mountain Resort",
+      "address": {
+        "street": "1100 E. Flaming Gorge Lodge",
+        "city": "Dutch John",
+        "state": "UT",
+        "zip": "84023"
+      },
+      "phone": "(435) 889-3773",
+      "web": "flaminggorgeresort.com"
+    },
+
+    {
+      "name": "Eddie Robinson's Flyfishing",
+      "address": {
+        "street": "594 E 800 S # B",
+        "city": "Orem",
+        "state": "UT",
+        "zip": "84097"
+      },
+      "phone": "(801) 434-3166",
+      "web": "eddierobinsons.com"
+    },
+
+    {
+      "name": "Fish Tech Outfitters",
+      "address": {
+        "street": "6153 S. Highland Dr.",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "zip": "84121"
+      },
+      "phone": "(801) 272-8808",
+      "web": "riverbum.com"
+    },
+
+    {
+      "name": "Fishwest",
+      "address": {
+        "street": "47 West 10600 South",
+        "city": "Sandy",
+        "state": "UT",
+        "zip": "84070"
+      },
+      "phone": "(877) 773-5437",
+      "web": "fishwest.com"
+    },
+
+    {
+      "name": "Four Seasons Fly Fishers",
+      "address": {
+        "street": "44 West 100 South",
+        "city": "Heber",
+        "state": "UT",
+        "zip": "84032"
+      },
+      "phone": "(435) 657-2010",
+      "web": "theonlineflyshop.com"
+    },
+
+    {
+      "name": "High Country Flyfishers",
+      "address": {
+        "street": "295 S Redwood Rd",
+        "city": "North Salt Lake",
+        "state": "UT",
+        "zip": "84054"
+      },
+      "phone": "(801) 936-9825",
+      "web": "hicountryflyfishers.com"
+    },
+
+    {
+      "name": "Jans",
+      "address": {
+        "street": "1600 Park Ave.",
+        "city": "Park City",
+        "state": "UT",
+        "zip": "84060"
+      },
+      "phone": "(800) 745-1020",
+      "web": "jans.com"
+    },
+
+    {
+      "name": "Mickey Finn's Fly Box",
+      "address": {
+        "street": "85 North Main St.",
+        "city": "Kaysville",
+        "state": "UT",
+        "zip": "84037"
+      },
+      "phone": "(801) 593-5557",
+      "web": "mickeyfinnsflybox.com"
+    },
+
+    {
+      "name": "Park's Sportsman",
+      "address": {
+        "street": "644 N. State St.",
+        "city": "Orem",
+        "state": "UT",
+        "zip": "84057"
+      },
+      "phone": "(801) 225-0227",
+      "web": "parkssportsman.com"
+    },
+
+    {
+      "name": "Roundrocks Flyfishing",
+      "address": {
+        "street": "530 S Main St.",
+        "city": "Logan",
+        "state": "UT",
+        "zip": "84321"
+      },
+      "phone": "(435) 755-6870",
+      "web": "roundrocks.com"
+    },
+
+    {
+      "name": "Trout Creek Flies",
+      "address": {
+        "street": "Hwy 191 & Little Hole Rd.",
+        "city": "Dutch John",
+        "state": "UT",
+        "zip": "84023"
+      },
+      "phone": "(435) 885-3355",
+      "web": "fishgreenriver.com"
+    },
+
+    {
+      "name": "Trout Bum 2",
+      "address": {
+        "street": "4343 North Hwy 224, Suite 101",
+        "city": "Park City",
+        "state": "UT",
+        "zip": "84098"
+      },
+      "phone": "(435) 658-1166",
+      "web": "troutbum2.com"
+    },
+
+    {
+      "name": "Western Rivers Flyfishers",
+      "address": {
+        "street": "1071 East 900 South",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "zip": "84105"
+      },
+      "phone": "(801) 521-6424",
+      "web": "wrflyfisher.com"
+    }
+  ]
+}

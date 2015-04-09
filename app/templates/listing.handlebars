@@ -1,0 +1,11 @@
+{{#each state}}
+<div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 listing">
+  <ul class="list">
+    <li class="name">{{name}}</li>
+    <li>{{address.street}}</li>
+    <li>{{address.city}}, {{address.state}} {{address.zip}}</li>
+    <li>{{phone}}</li>
+    <li><a href="http://www.{{web}}" target="_blank">{{web}}</a></li>
+  </ul>
+</div>
+{{/each}}

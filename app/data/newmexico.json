@@ -1,0 +1,135 @@
+{
+  "state": [
+    {
+      "name": "Abe's Fly Shop",
+      "address": {
+        "street": "1791 Hwy #173",
+        "city": "Navajo Dam",
+        "state": "NM",
+        "zip": "87419"
+      },
+      "phone": "(505) 632-2194",
+      "web": "sanjuanriver.com"
+    },
+
+    {
+      "name": "Charlie's Sporting Goods",
+      "address": {
+        "street": "8908 Menaul Blvd NE",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "87112"
+      },
+      "phone": "(505) 275-3006",
+      "web": "charliessportinggoods.com"
+    },
+
+    {
+      "name": "Dos Amigos Anglers",
+      "address": {
+        "street": "247 Therma Dr.",
+        "city": "Eagles Nest",
+        "state": "NM",
+        "zip": "87718"
+      },
+      "phone": "(575) 377-6226",
+      "web": "dosamigosanglers.net"
+    },
+
+    {
+      "name": "Fisheads San Juan River Lodge",
+      "address": {
+        "street": "1796 New Mexico 173",
+        "city": "Navajo Dam",
+        "state": "NM",
+        "zip": "87419"
+      },
+      "phone": "(505) 632-1411",
+      "web": "fisheadsofthesanjuan.com"
+    },
+
+    {
+      "name": "Float and Fish",
+      "address": {
+        "street": "#4 County Rd 4251",
+        "city": "Navajo Dam",
+        "state": "NM",
+        "zip": "87419"
+      },
+      "phone": "(505) 632-5385",
+      "web": "sanjuanfloatnfish.com"
+    },
+
+    {
+      "name": "High Desert Angler",
+      "address": {
+        "street": "453 Cerrillos Rd.",
+        "city": "Santa Fe",
+        "state": "NM",
+        "zip": "87501"
+      },
+      "phone": "(505) 988-7688",
+      "web": "highdesertangler.com"
+    },
+
+    {
+      "name": "Los Pinos Fly Shop",
+      "address": {
+        "street": "2820 Richmond Dr. NE",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zip": "87107"
+      },
+      "phone": "(505) 884-7501",
+      "web": "lospinosflyshop.com"
+    },
+
+    {
+      "name": "The Reel Life",
+      "address": {
+        "street": "500 Montezuma",
+        "city": "Santa Fe",
+        "state": "NM",
+        "zip": "87501"
+      },
+      "phone": "(505) 995-8114",
+      "web": "thereellife.com"
+    },
+
+    {
+      "name": "Soaring Eagle Lodge",
+      "address": {
+        "street": "PO BOX 6340",
+        "city": "Navajo Dam",
+        "state": "NM",
+        "zip": "87419"
+      },
+      "phone": "(505) 632-3721",
+      "web": "soaringeaglelodge.net"
+    },
+
+    {
+      "name": "Taos Fly Shop",
+      "address": {
+        "street": "308-b Paseo Del Pueblo Sur",
+        "city": "Taos",
+        "state": "NM",
+        "zip": "87571"
+      },
+      "phone": "(505) 751-1312",
+      "web": "taosflyshop.com"
+    },
+
+    {
+      "name": "Zia Sporting Goods",
+      "address": {
+        "street": "500 East Main",
+        "city": "Farmington",
+        "state": "NM",
+        "zip": "87401"
+      },
+      "phone": "(505) 327-6004",
+      "web": "ziasportinggoods.net"
+    }
+  ]
+}

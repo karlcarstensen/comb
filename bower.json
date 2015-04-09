@@ -1,0 +1,10 @@
+{
+  "name": "Comb Enterprises",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0",
+    "modernizr": "~2.8.2",
+    "ResponsiveSlides": "*",
+    "handlebars": "~3.0.0"
+  }
+}

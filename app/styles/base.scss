@@ -1,0 +1,326 @@
+@import "variables.scss";
+
+// Base
+a {
+  color: $comb-green;
+}
+
+// Navigation
+nav.navbar {
+  background: url('../images/comb-header.png');
+  height: 186px;
+  background-repeat: repeat-x;
+  margin: 0;
+}
+.navbar-brand {
+  padding: 0;
+  height: 100px;
+  display: block;
+}
+
+.navbar-header {
+  float: none;
+}
+.navbar-toggle {
+  background-color: white;
+  margin-top: 25px;
+  margin-right: 0;
+  .icon-bar {
+    background-color: $comb-green;
+  }
+}
+
+@media (max-width: 767px) {
+  .navbar-collapse {
+    background-color: white;
+    padding: 2px 0 3px 0;
+    margin-top: 100px;
+    &.in {
+    overflow-y: visible;
+    }
+    .nav {
+      width: auto;
+      margin-top: 0;
+    }
+  }
+}
+
+@media (max-width: 510px) {
+  .navbar-collapse {
+    background-color: white;
+    padding: 2px 2px 3px 1px;
+    margin-top: 100px;
+    height: auto;
+    border-bottom: 2px solid $comb-green;
+    .nav {
+      width: auto;
+      margin-top: 0;
+      border-bottom: none;
+      li {
+        width: 100%;
+        margin-top: 2px;
+      }
+    }
+  }
+}
+.nav {
+  width: 505px;
+  float: right;
+  margin-top: 50px;
+}
+.nav > li {
+  float: left;
+  margin-left: 1px;
+}
+.nav > li.active {
+  background-color: $comb-green;
+  border-radius: 4px;
+  color: white;
+  > a {
+    color: white;
+  }
+}
+.nav > li > a {
+  padding: 8px 15px;
+  color: $text-color;
+
+  &:hover, &:focus {
+    background-color: $comb-green;
+    border-radius: 4px;
+  }
+}
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+  background-color: $comb-green !important;
+  border-radius: 4px;
+}
+.dropdown-menu {
+  background-color: #A29E8F;
+  left: -1px;
+  border-left: 1px solid #666;
+  border-right: 1px solid #666;
+  border-bottom: 1px solid #666;
+  .active {
+    a, a:hover {
+      background-color: $comb-green;
+    }
+  }
+}
+ul.dropdown-menu li {
+  border-right: none !important;
+  color: $text-color;
+}
+.navbar-nav {
+  float: right;
+  margin: 55px 0 0 0;
+}
+ul.nav.navbar-nav {
+
+  li {
+    border-right: 1px #000 solid;
+    &.last {
+      border-right: none;
+    }
+
+    a {
+      color: #000;
+      &:hover {
+
+      }
+    }
+  }
+}
+
+
+// Main
+
+.border-right {
+  border-right: 1px #999999 dotted;
+  margin-bottom: 38px;
+  &.homepage {
+    min-height: 400px;
+  }
+}
+
+.sidebar {
+  margin-bottom: 20px;
+  img {
+    float: right;
+  }
+}
+
+.featured-product-image {
+  padding-top: 10px;
+  img {
+    width: 100%;
+    border: 1px solid $comb-green;
+  }
+}
+
+// Product Forms
+.forms-area {
+  border-top: 1px solid #555;
+  margin-top: 15px;
+
+  table {
+
+    tr {
+      margin-bottom: 10px;
+    }
+
+    tr:nth-child(odd) {
+      background-color: #eee;
+    }
+  }
+}
+
+// Manufacturers Page
+.manufacturer-logos {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  .logo-grid {
+    text-align: center;
+        //min-height: 140px;
+        a {
+          display: block;
+        }
+      }
+      img {
+        width: 100%;
+      }
+    }
+    @media (max-width: 768px) {
+      .manufacturer-logos .logo-grid img {
+        max-width: 200px;
+      }
+    }
+// @media (max-width: 600px) {
+//     .manufacturer-logos .logo-grid {
+//         min-height: 140px;
+//     }
+// }
+// @media (max-width: 500px) {
+//     .manufacturer-logos .logo-grid {
+//         min-height: 110px;
+//     }
+// }
+// @media (max-width: 400px) {
+//     .manufacturer-logos .logo-grid {
+//         min-height: 85px;
+//     }
+// }
+
+.company-logo {
+  img {
+    width: 100%;
+    display: block;
+  }
+}
+.linkback {
+  text-align: right;
+}
+.inset-image {
+  float: right;
+  text-align: right;
+  img {
+    width: 100%;
+    display: block;
+  }
+}
+
+.container.product {
+  @media (max-width: 400px) {
+    h3 {
+      font-size: 18px;
+    }
+  }
+}
+
+// Retail Page
+.directory-header {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.listing {
+  min-height: 130px;
+
+  .list {
+    list-style-type: none;
+    margin: 0 0 30px 0;
+    padding: 0;
+
+    .name {
+      color: $comb-green;
+      font-weight: bold;
+    }
+  }
+}
+// To fix spacing on small screens
+@media (max-width: 400px) {
+  .listing {
+    min-height: 150px;
+  }
+}
+
+// Contact
+
+.contact-name {
+  color: black;
+  margin-bottom: 0;
+}
+
+
+//  Footer
+.footer-container {
+  border-top: 1px #999999 dotted;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 20px;
+
+  ul {
+    list-style-type: none;
+    // width: 515px;
+    // margin: 0 auto;
+
+    li {
+      // float: left;
+      border-right: solid #333333 1px;
+      // padding: 0 10px;
+
+      &.last {
+        border-right: none;
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-container {
+    font-size: 0.9em;
+  }
+}
+@media (max-width: 510px) {
+  .footer-container {
+    border-top: 1px #999999 dotted;
+    text-align: center;
+    padding: 10px 0;
+    margin: 20px 0 0 0;
+    font-size: 0.8em;
+    ul {
+      list-style-type: none;
+      margin-left: 0;
+
+      li {
+        float: none;
+        border-right: none;
+        padding: 0 10px;
+
+        &.last {
+          border-right: none;
+        }
+      }
+    }
+  }
+}
