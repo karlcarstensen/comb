@@ -1,0 +1,51 @@
+{
+  "state": [
+    {
+      "name": "Backwoods",
+      "address": {
+        "street": "6508 E. 51st St.",
+        "city": "Tulsa",
+        "state": "OK",
+        "zip": "74145"
+      },
+      "phone": "(918) 664-7850",
+      "web": "backwoods.com/tulsa/"
+    },
+
+    {
+      "name": "Backwoods",
+      "address": {
+        "street": "12325 N. May Ave Suite 103",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "zip": "73120"
+      },
+      "phone": "(405) 751-7376",
+      "web": "backwoods.com/oklahoma-city/"
+    },
+
+    {
+      "name": "Beavers Bend Fly Shop",
+      "address": {
+        "street": "Oklahoma 259A",
+        "city": "Broken Bow",
+        "state": "OK",
+        "zip": "74728"
+      },
+      "phone": "(580) 494-6071",
+      "web": "beaversbendflyshop.com"
+    },
+
+    {
+      "name": "Three Rivers Fly Shop",
+      "address": {
+        "street": "Route 4, Box 27-1 Hwy 259",
+        "city": "North Broken Bow",
+        "state": "OK",
+        "zip": "74128"
+      },
+      "phone": "(580) 494-6115",
+      "web": "threeriversflyshop.com"
+    }
+  ]
+}

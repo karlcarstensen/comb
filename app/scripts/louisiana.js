@@ -2,7 +2,7 @@
 
 // grab data
 var retriveData = function() {
-    var dataSource = 'data/newmexico.json';
+    var dataSource = 'data/louisiana.json';
     jqueryNoConflict.getJSON(dataSource, renderDataVisualsTemplate);
 };
 

@@ -1,0 +1,15 @@
+{
+  "state": [
+    {
+      "name": "Uptown Angler",
+      "address": {
+        "street": "601 Julia Street",
+        "city": "New Orleans",
+        "state": "LA",
+        "zip": "70130"
+      },
+      "phone": "(504) 529-3597",
+      "web": "uptownangler.com"
+    }
+  ]
+}

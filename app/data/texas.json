@@ -1,0 +1,183 @@
+{
+  "state": [
+    {
+      "name": "Action Angler",
+      "address": {
+        "street": "9751 River Road",
+        "city": "New Braunfels",
+        "state": "TX",
+        "zip": "78132"
+      },
+      "phone": "(830) 708-3474",
+      "web": "actionangler.net"
+    },
+
+    {
+      "name": "Backwoods",
+      "address": {
+        "street": "3300 N Interstate 35 Suite 149",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78738"
+      },
+      "phone": "(512) 583-1700",
+      "web": "backwoods.com/austin"
+    },
+
+    {
+      "name": "Backwoods",
+      "address": {
+        "street": "2727 West 7th Street",
+        "city": "Fort Worth",
+        "state": "TX",
+        "zip": "76107"
+      },
+      "phone": "(817) 332-2423",
+      "web": "backwoods.com"
+    },
+
+    {
+      "name": "The Bear Mountain",
+      "address": {
+        "street": "4425 W Waco Drive",
+        "city": "Waco",
+        "state": "TX",
+        "zip": "76710"
+      },
+      "phone": "(254) 772-4327",
+      "web": "thebearmountain.com"
+    },
+
+    {
+      "name": "Fishing Tackle Unlimited",
+      "address": {
+        "street": "8723 Katey Freeway",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77024"
+      },
+      "phone": "(713) 827-7762",
+      "web": "fishingtackleunlimited.com"
+    },
+
+    {
+      "name": "Gruene River Outfitters",
+      "address": {
+        "street": "1629 Hunter Road",
+        "city": "New Braunfels",
+        "state": "TX",
+        "zip": "78130"
+      },
+      "phone": "(888) 477-3474",
+      "web": "grueneoutfitters.com"
+    },
+
+    {
+      "name": "Living Waters",
+      "address": {
+        "street": "309 West Main Street #110",
+        "city": "Round Rock",
+        "state": "TX",
+        "zip": "78664"
+      },
+      "phone": "(512) 507-7733",
+      "web": "livingwatersflyfishing.com"
+    },
+
+    {
+      "name": "Marburger's",
+      "address": {
+        "street": "1400 Bayport Blvd",
+        "city": "Seabrook",
+        "state": "TX",
+        "zip": "77586"
+      },
+      "phone": "(281) 474-3229",
+      "web": ""
+    },
+
+    {
+      "name": "Mountain Hideaway",
+      "address": {
+        "street": "4816 50th Street",
+        "city": "Lubbock",
+        "state": "TX",
+        "zip": "79414"
+      },
+      "phone": "(806) 797-1064",
+      "web": "themountainhideaway.com"
+    },
+
+    {
+      "name": "Reel Fly Fishing Adventures",
+      "address": {
+        "street": "1642 FM 2673 #3",
+        "city": "Canyon Lake",
+        "state": "TX",
+        "zip": "78133"
+      },
+      "phone": "(830) 964-4823",
+      "web": "reelfly.net"
+    },
+
+    {
+      "name": "Riverfields",
+      "address": {
+        "street": "2465 West Interstate 40",
+        "city": "Amarillo",
+        "state": "TX",
+        "zip": "79109"
+      },
+      "phone": "(806) 351-0980",
+      "web": "riverfields.com"
+    },
+
+    {
+      "name": "Roy's Bait & Tackle",
+      "address": {
+        "street": "7613 South Padre Island Drive",
+        "city": "Corpus Christi",
+        "state": "TX",
+        "zip": "78412"
+      },
+      "phone": "(361) 992-2960",
+      "web": "roysbait-tackle.com"
+    },
+
+    {
+      "name": "Sportsman's Finest",
+      "address": {
+        "street": "12434 Bee Cave Road (FM 2244)",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78738"
+      },
+      "phone": "(512) 263-1888",
+      "web": "sportsmansfinest.com"
+    },
+
+    {
+      "name": "TackleBox Outfitters",
+      "address": {
+        "street": "6330 N New Braunfels Avenue",
+        "city": "San Antonio",
+        "state": "TX",
+        "zip": "78209"
+      },
+      "phone": "(210) 821-5806",
+      "web": "tackleboxoutfitters.com"
+    },
+
+    {
+      "name": "Tailwaters",
+      "address": {
+        "street": "2416 McKinney Avenue",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75201"
+      },
+      "phone": "(888) 824-5420",
+      "web": "tailwatersflyfishing.com"
+    }
+  ]
+}

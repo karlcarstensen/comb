@@ -1,0 +1,159 @@
+{
+  "state": [
+    {
+      "name": "Blue Ribbon Fly Shop",
+      "address": {
+        "street": "1343 East 9th",
+        "city": "Mountain Home",
+        "state": "AR",
+        "zip": "72653"
+      },
+      "phone": "(870) 425-0447",
+      "web": "blueribbonflyfish.com"
+    },
+
+    {
+      "name": "Copper Johns Resort",
+      "address": {
+        "street": "469 River Road",
+        "city": "Lakeview",
+        "state": "AR",
+        "zip": "72642"
+      },
+      "phone": "(877) 828-7688",
+      "web": "copperjohnsresort.com"
+    },
+
+    {
+      "name": "Dally's Ozark Fly Fisher",
+      "address": {
+        "street": "1200 W Main St #7",
+        "city": "Cotter",
+        "state": "AR",
+        "zip": "72626"
+      },
+      "phone": "(870) 435-6166",
+      "web": "theozarkflyfisher.com"
+    },
+
+    {
+      "name": "Gaston's White River Resort",
+      "address": {
+        "street": "1777 River Road",
+        "city": "Lakeview",
+        "state": "AR",
+        "zip": "72642"
+      },
+      "phone": "(870) 431-5202",
+      "web": "gastons.com"
+    },
+
+    {
+      "name": "McLellans",
+      "address": {
+        "street": "18 W Sunbridge Drive",
+        "city": "Fayetteville",
+        "state": "AR",
+        "zip": "72703"
+      },
+      "phone": "(479) 251-7037",
+      "web": "mcflyshop.com"
+    },
+
+    {
+      "name": "Ozark Angler",
+      "address": {
+        "street": "12305 Chenal Pkwy",
+        "city": "Little Rock",
+        "state": "AR",
+        "zip": "72211"
+      },
+      "phone": "(501) 225-6504",
+      "web": "ozarkangler.com"
+    },
+
+    {
+      "name": "Ozark Angler",
+      "address": {
+        "street": "659 Wilburn Road",
+        "city": "Heber Springs",
+        "state": "AR",
+        "zip": "72543"
+      },
+      "phone": "(501) 362-FLYS (3597)",
+      "web": "ozarkangler.com"
+    },
+
+    {
+      "name": "Ouchita Outfitters",
+      "address": {
+        "street": "112 Blackhawk Lane",
+        "city": "Hot Springs",
+        "state": "AR",
+        "zip": "71913"
+      },
+      "phone": "(501) 767-1373",
+      "web": "ouachitaoutdoors.com"
+    },
+
+    {
+      "name": "Rim Shoals Resort",
+      "address": {
+        "street": "153 Rim Shoals Cp",
+        "city": "Mountain Home",
+        "state": "AR",
+        "zip": "72653"
+      },
+      "phone": "(870) 435-6144",
+      "web": "rimshoals.com"
+    },
+
+    {
+      "name": "Southtown Sporting Goods 2",
+      "address": {
+        "street": "4602 College Avenue",
+        "city": "Fayetteville",
+        "state": "AR",
+        "zip": "72703"
+      },
+      "phone": "(479) 443-7148",
+      "web": "bit.ly/1K0tovR"
+    },
+
+    {
+      "name": "Spring Valley Angler",
+      "address": {
+        "street": "23525 Lin Z Way",
+        "city": "Gravette",
+        "state": "AR",
+        "zip": "72736"
+      },
+      "phone": "(479) 752-3390",
+      "web": "springvalleyanglers.com"
+    },
+
+    {
+      "name": "Toad Fly Shop",
+      "address": {
+      "street": "1214 Clifton Street",
+        "city": "Conway",
+        "state": "AR",
+        "zip": "72034"
+      },
+      "phone": "(479) 857-2855",
+      "web": "localflyshop.com"
+    },
+
+    {
+      "name": "Two Rivers Fly Shop",
+      "address": {
+        "street": "13718 Highway 5 S, Arkansas 5",
+        "city": "Norfork",
+        "state": "AR",
+        "zip": "72658"
+      },
+      "phone": "(870) 499-3060",
+      "web": "tworiversfly.com"
+    }
+  ]
+}

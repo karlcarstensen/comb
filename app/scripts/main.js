@@ -32,6 +32,12 @@ var renderHandlebarsTemplate = function(withTemplate,inElement,withData) {
     });
 };
 
+// render compiled handlebars template
+var renderDataVisualsTemplate = function(data) {
+    // handlebarsDebugHelper();
+    renderHandlebarsTemplate('templates/listing.handlebars', '#shop-list', data);
+};
+
 // add handlebars debugger
 // var handlebarsDebugHelper = function() {
 //     Handlebars.registerHelper('debug', function(optionalValue) {
