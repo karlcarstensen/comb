@@ -1,0 +1,7 @@
+
+AuthType Basic
+AuthName "Comb Restricted Access"
+AuthUserFile /home/31624/.htpasswd
+AuthGroupFile /home/31624/.htgroup
+Require group formaccess
+Require user combpro
