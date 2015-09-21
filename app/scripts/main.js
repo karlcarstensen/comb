@@ -2,6 +2,8 @@
 
 console.log('\'Allo \'Allo!');
 
+/* jshint ignore:start */
+
 // Responsive Slides
 $(function() {
   $('.rslides').responsiveSlides();
@@ -46,3 +48,5 @@ var renderDataVisualsTemplate = function(data) {
 //         console.log(this);
 //     });
 // };
+
+/* jshint ignore:end */
