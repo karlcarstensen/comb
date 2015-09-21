@@ -1,4 +1,5 @@
 'use strict';
+/* jshint ignore:start */
 
 // grab data
 var retriveData = function() {
@@ -11,3 +12,5 @@ jqueryNoConflict(document).ready(function(){
     retriveData();
 });
 //end main function
+
+/* jshint ignore:end */
