@@ -105,7 +105,7 @@
           </ul>
         </div> -->
         <div class="col-xs-12">
-          <p>&copy; <script language="javascript" type="text/javascript" data-no-instant>var dateObject=new Date();</script><script type="text/javascript" data-no-instant>document.write(dateObject.getFullYear());</script> COMB ENTERPRISES, LLC. All logos and other trademarks are property of their respective owners.<br /><a href="http://wwww.karlcarstensen.com/" target="_blank">Site designed by Karl Carstensen</a>.</p>
+          <p>&copy; <script language="javascript" type="text/javascript" data-no-instant>var dateObject=new Date();</script><script type="text/javascript" data-no-instant>document.write(dateObject.getFullYear());</script> COMB ENTERPRISES, LLC. All logos and other trademarks are property of their respective owners.<br /><a href="http://wwww.karlcarstensen.com/" target="_blank">Site designed by Karl Carstensen</a></p>
         </div>
       </div>
     </footer>
@@ -147,6 +147,10 @@
     <script src="scripts/main.js"></script>
     <!-- endbuild -->
 
-    <script src="scripts/texas.js"></script>
+    <!-- Dynamically populate list -->
+    <script type="text/javascript">
+      var dataSource = 'data/texas.json';
+      retriveData(dataSource);
+    </script>
 </body>
 </html>

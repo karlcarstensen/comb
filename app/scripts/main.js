@@ -40,6 +40,11 @@ var renderDataVisualsTemplate = function(data) {
     renderHandlebarsTemplate('templates/listing.handlebars', '#shop-list', data);
 };
 
+// grab data
+var retriveData = function() {
+    jqueryNoConflict.getJSON(dataSource, renderDataVisualsTemplate);
+};
+
 // add handlebars debugger
 // var handlebarsDebugHelper = function() {
 //     Handlebars.registerHelper('debug', function(optionalValue) {
